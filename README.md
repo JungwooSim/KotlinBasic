@@ -35,3 +35,5 @@
 - Numbers(숫자) : Java에서 숫자형이던 char가 코틀린에서는 숫자 형이 아니다.
 - Explicit Conversions : 작은 타입은 큰 타입의 하위가 아니다. 즉 작은 타입에서 큰 타입으로 대입이 안되므로 명시적으로 변환필요 long -> Long 일때
 - String : 문자열은 String Class로 표현되고, characters로 구성된다. (immutable 이므로 변경은 불가능하다.)
+
+**Control Flow**

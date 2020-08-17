@@ -26,6 +26,21 @@ fun main(args: Array<String>) {
     for (x in string) {
         println(x);
     }
+
+    println("--------")
+
+    // escaped string
+    val s: String = "Hello, world!\n"
+    println(s);
+
+    // raw string
+    val b: String =
+"""
+"'이것은 코틀린의
+raw String
+입니다.
+""";
+    println(b);
 }
 
 fun primitiveCheck() {
