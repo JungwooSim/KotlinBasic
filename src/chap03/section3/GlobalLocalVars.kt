@@ -1,4 +1,4 @@
-package chap02.section3
+package chap03.section3
 
 var global = 10 // 전역 - 패키지 모든 범위에 적용
 

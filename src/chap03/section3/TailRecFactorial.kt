@@ -1,4 +1,4 @@
-package chap02.section3
+package chap03.section3
 
 fun main() {
     val number = 5
